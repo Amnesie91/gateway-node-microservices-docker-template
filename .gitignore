@@ -3,3 +3,7 @@ node_modules
 *.env
 *.sql
 build
+microservices/**/nexus-typegen.ts
+microservices/**/schema.graphql
+microservices/template/nexus-typegen.ts
+microservices/template/schema.graphql
